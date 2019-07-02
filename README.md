@@ -20,4 +20,9 @@ Como rodar o projeto:
 <p>
   delete http://localhost:3000/caixa/id
 <p>
+*As funções de realizar e receber pagamento não foram implementadas
+<p>
+  put http://localhost:3000/caixa/id/entrada
+  <p>
+  put http://localhost:3000/caixa/id/saida
 --
