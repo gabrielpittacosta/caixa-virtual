@@ -1,0 +1,9 @@
+{
+    "mongo": {
+        "username": "ghpc",
+        "password": "123456",
+        "server": "localhost",
+        "port": 27017,
+        "database": "tecnospeed"
+    }
+}
