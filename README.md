@@ -23,6 +23,7 @@ Como rodar o projeto:
 *As funções de realizar e receber pagamento não foram implementadas
 <p>
   put http://localhost:3000/caixa/id/entrada
-  <p>
+<p>
   put http://localhost:3000/caixa/id/saida
+<p>
 --
